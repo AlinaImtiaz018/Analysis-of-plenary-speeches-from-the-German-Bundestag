@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: >-
+  Analysis and visualization of plenary speeches from the German Bundestag.
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Konrad
+    family-names: Brüggemann
+    email: konrad.brüggemann@uni-potsdam.de
+  - given-names: Leon
+    family-names: Hauch
+    email: leon.hauch@uni-potsdam.de
+  - given-names: Marvin
+    family-names: Henschel
+    email: marvin.henschel@uni-potsdam.de
+  - given-names: Alina
+    family-names: Imtiaz
+    email: alina.imtiaz@uni-potsdam.de
+  - given-names: Tilman
+    family-names: Ripke
+    email: tilman.ripke@uni-potsdam.de
+license: MIT
+version: v1.0
+date-released: '2024-07-12'
