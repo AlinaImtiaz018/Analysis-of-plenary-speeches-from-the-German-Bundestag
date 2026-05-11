@@ -10,8 +10,8 @@ Description:
 
 Author:
     Alina Imtiaz,
-    Universität Potsdam,
-    alina.imtiaz@uni-potsdam.de
+    Technische Universität Dortmund,
+    alinaimtiaz097@gmail.com
 
 Date:
     07.07.2024
