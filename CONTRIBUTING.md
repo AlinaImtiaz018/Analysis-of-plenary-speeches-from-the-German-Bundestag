@@ -31,7 +31,7 @@ Please report unacceptable behavior to [Contact](#contact).
 If you find a bug, please report it by following these steps:
 
 1. **Search for existing issues** to ensure it hasn’t already been reported.
-2. If no existing issue matches, [open a new issue](https://gitup.uni-potsdam.de/henschel1/rse-group-project/-/issues) and include:
+2. If no existing issue matches, [open a new issue](https://github.com/AlinaImtiaz018/Analysis-of-plenary-speeches-from-the-German-Bundestag/issues) and include:
     - A clear, descriptive title.
     - Steps to reproduce the bug.
     - Expected and actual results.
@@ -43,7 +43,7 @@ If you find a bug, please report it by following these steps:
 Enhancements can be new features or improvements to existing features. To suggest an enhancement:
 
 1. **Search for existing issues** to see if the suggestion has already been made.
-2. If no existing issue matches, [open a new issue](https://gitup.uni-potsdam.de/henschel1/rse-group-project/-/issues) and include:
+2. If no existing issue matches, [open a new issue](https://github.com/AlinaImtiaz018/Analysis-of-plenary-speeches-from-the-German-Bundestag/issues) and include:
     - A clear, descriptive title.
     - A detailed description of the proposed enhancement.
     - Any relevant examples, screenshots, or links.
@@ -64,11 +64,11 @@ To get a local copy of the project up and running, follow these instructions:
 
 1. Clone the repository:
     ```sh
-    git clone https://gitup.uni-potsdam.de/henschel1/rse-group-project.git
+    git clone https://github.com/AlinaImtiaz018/Analysis-of-plenary-speeches-from-the-German-Bundestag.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd rse-group-project
+    cd Analysis-of-plenary-speeches-from-German-Bundestag
     ```
 3. Install dependencies:
     ```sh
@@ -104,10 +104,10 @@ To get a local copy of the project up and running, follow these instructions:
 ## Contact
 
 ### You can reach our team via e-mail:<br>
+- [alinaimtiaz097@gmail.com](mailto:alinaimtiaz097@gmail.com)<br>
 - [konrad.brüggemann@uni-potsdam.de](mailto:konrad.brüggemann@uni-potsdam.de)<br>
 - [leon.hauch@uni-potsdam.de](mailto:leon.hauch@uni-potsdam.de)<br>
 - [marvin.henschel@uni-potsdam.de](mailto:marvin.henschel@uni-potsdam.de)<br>
-- [alina.imtiaz@uni-potsdam.de](mailto:alina.imtiaz@uni-potsdam.de)<br>
 - [tilman.ripke@uni-potsdam.de](mailto:tilman.ripke@uni-potsdam.de)
 
 
