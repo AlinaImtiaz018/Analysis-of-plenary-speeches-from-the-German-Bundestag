@@ -4,6 +4,9 @@ title: >-
 message: 'If you use this software, please cite it as below.'
 type: software
 authors:
+  - given-names: Alina
+    family-names: Imtiaz
+    email: alinaimtiaz097@gmail.com
   - given-names: Konrad
     family-names: Brüggemann
     email: konrad.brüggemann@uni-potsdam.de
@@ -13,9 +16,6 @@ authors:
   - given-names: Marvin
     family-names: Henschel
     email: marvin.henschel@uni-potsdam.de
-  - given-names: Alina
-    family-names: Imtiaz
-    email: alina.imtiaz@uni-potsdam.de
   - given-names: Tilman
     family-names: Ripke
     email: tilman.ripke@uni-potsdam.de
